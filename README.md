@@ -79,7 +79,7 @@ flowchart TD
 ```
 
 
-⚙️ How to Use
+## ⚙️ How to Use
 Save the code to a file, e.g., file_read_write.py.
 
 Open a terminal and navigate to the directory containing the script.
@@ -100,8 +100,8 @@ Input File (input.txt):
 ```vbnet
 This is a test file.
 It contains sample text.
-Output File (output.txt):
 ```
+Output File (output.txt):
 ```vbnet
 THIS IS A TEST FILE.
 IT CONTAINS SAMPLE TEXT.
